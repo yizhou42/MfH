@@ -4,7 +4,7 @@
 
 ![teaser](./assets/teaser.jpg)
 
-> [**Metric from Human: Zero-shot Monocular Metric Depth Estimation via Test-time Adaptation**](https://openreview.net/pdf?id=GA8TVtxudf),  
+> [**Metric from Human: Zero-shot Monocular Metric Depth Estimation via Test-time Adaptation**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bd19ca8039547b339a6a37bd4df24405-Abstract-Conference.html),  
 > Yizhou Zhao, Hengwei Bian, Kaihua Chen, Pengliang Ji, Liao Qu, Shao-yu Lin, Weichen Yu, Haoran Li, Hao Chen, Jun Shen, Bhiksha Raj, Min Xu,  
 > NeurIPS 2024
 
